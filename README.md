@@ -1,6 +1,5 @@
 
 <h1 align="center">
-<img src="./img/octocat.png" width="100px"><br>
 Hello Folks!
 </h1>
 
