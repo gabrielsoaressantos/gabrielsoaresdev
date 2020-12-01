@@ -31,6 +31,7 @@ Here you'll find some of the projects that I have been working on lately, in add
 
 ##### 🌱 I’m currently learning:
 ![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-pink?style=flat)
 
 #### Working on 🚀:
 - Personal Blog With Jekyll (available soon ⌛);
