@@ -30,12 +30,12 @@ Here you'll find some of the projects that I have been working on lately, in add
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logoColor=white&logo=MySQL)
 
 ##### 🌱 I’m currently learning:
-![](https://img.shields.io/badge/C++-blue?style=flat)
+![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go&logoColor=white)
 
 #### Working on 🚀:
 - Personal Blog With Jekyll (available soon ⌛);
 - Animations of data structures and algorithms with Anime.js (available soon ⌛);
-- Voyager Project (avaiable soon ⌛);
+- Voyager Project (available soon ⌛);
 
 #### 🎓 Education:
 - Sistemas de Informação - Instituto Federal de Alagoas - Campus Arapiraca (2020) ⌛
