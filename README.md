@@ -33,11 +33,6 @@ Here you'll find some of the projects that I have been working on lately, in add
 ![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-pink?style=flat)
 
-#### Working on 🚀:
-- Personal Blog With Jekyll (available soon ⌛);
-- Animations of data structures and algorithms with Anime.js (available soon ⌛);
-- Voyager Project (available soon ⌛);
-
 #### 🎓 Education:
 - Sistemas de Informação - Instituto Federal de Alagoas - Campus Arapiraca (2020) ⌛
 - Técnico em Informática - Insituto Federal de Alagoas - Campus Arapiraca (2016 - 2020) ✅
