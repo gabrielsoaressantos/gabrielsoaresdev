@@ -15,6 +15,7 @@ Here you'll find some of the projects that I have been working on lately, in add
 #### 🤹🏻 Technologies and Tools:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielsoaresdev&show_icons=true&layout=compact)<br>
 
+![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/Java-F74141?style=flat&logo=Java)
 ![](https://img.shields.io/badge/C%23-3B0094?style=flat)
 ![](https://img.shields.io/badge/Dart-2BB1EE?style=flat&logo=Dart)
@@ -30,7 +31,6 @@ Here you'll find some of the projects that I have been working on lately, in add
 ![](https://img.shields.io/badge/MySQL-1D4A65?style=flat&logoColor=white&logo=MySQL)
 
 ##### 🌱 I’m currently learning:
-![](https://img.shields.io/badge/Go-blue?style=flat&logo=Go&logoColor=white)
 ![](https://img.shields.io/badge/GraphQL-pink?style=flat)
 
 #### 🎓 Education:
